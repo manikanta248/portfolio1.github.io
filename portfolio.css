@@ -1,0 +1,109 @@
+
+nav{
+    
+    background-color: rgba(207,231,249,0.6);
+    border: 12px;
+    padding: 5px;
+}
+.navbar-brand {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgba(49, 33, 107, 255);
+}
+.nav-item{
+    padding: 20px;
+    color:rgba(49, 33, 107, 255)
+}
+.nav-item .nav-link{
+    color:rgba(49, 33, 107, 255);
+}
+.nav-item .nav-link:hover{
+    color:rgba(49, 33, 107, 255);
+    background-color: rgba(30, 187, 240, 255);
+    transition-duration: 0.2s;
+}
+.socials a{
+    color: white;
+}
+footer a{
+    padding: 9px;
+}
+.icon{
+    
+    text-decoration: none;
+    padding: 30px;
+    color: white;
+    border-radius: 100%;
+    background-color: rgba(49, 33, 107, 255);
+}
+.icon:hover{
+    text-decoration: none;
+    color: white;
+    background-color: rgba(30, 187, 240, 255);
+
+}
+.det{
+    padding: 24px;
+}
+.detials i{
+    padding: 20px;
+    color:white;
+    text-decoration: none;
+    background-color: rgba(49, 33, 107, 255);
+}
+.detials i:hover{
+    transition-duration: 0.2s;
+    text-decoration: none;
+    color:white;
+    background-color: rgba(30, 187, 240, 255);
+}
+
+.body{
+    background-color: rgba(207,231,249,255);
+    padding: 30px;
+}
+main{
+    padding: 80px;
+    padding-left: 40px;
+}
+main h1 h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+}
+main .info{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+form .email{
+    
+    font-size:xx-large;
+}
+form .email input{
+    width: 60%;
+    border-radius:20px ;
+}
+form .mobile input{
+    width: 40%;
+    font-size: xx-large;
+    border-radius: 20px;
+}
+form .mobile{
+    font-size: xx-large;
+}
+form button{
+    font-size: x-large;
+}
+form .name{
+    font-size: xx-large;
+}
+form .name input{
+    width: 40%;
+    font-size: xx-large;
+    border-radius: 20px;
+}
+.details h2 {
+    padding: 20px;
+    
+}
+.details i{
+    padding: 20px;
+}
